@@ -4,6 +4,12 @@
 <p>Situação proposta: clique <a href="https://drive.google.com/file/d/1jgq9LnjaaRcYqNkKb-qTChYUCX8PYdmd/view?usp=sharing">aqui</a> para visualizar.</p>
 <p>Documentação da API: <a href="https://documenter.getpostman.com/view/18027456/Uz5NitA7">FastParking - API</a> | Em desenvolvimento.</p>
 
+## Vídeo demonstrativo:
+
+[![https://www.youtube.com/watch?v=nnMWSYeTCns](https://img.youtube.com/vi/nnMWSYeTCns/0.jpg)](https://www.youtube.com/watch?v=nnMWSYeTCns)
+
+<p>Vídeo demonstrativo, é utilizada a ferramenta do Postman para teste da API. Clique <a href="https://www.youtube.com/watch?v=nnMWSYeTCns">aqui</a>.</p>
+
 ## Desenvolvedores:
 
 <ul>
