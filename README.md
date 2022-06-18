@@ -6,6 +6,8 @@
 
 ## Vídeo demonstrativo:
 
+<p>Clique no vídeo ou no link abaixo:</p>
+
 [![https://www.youtube.com/watch?v=nnMWSYeTCns](https://img.youtube.com/vi/nnMWSYeTCns/0.jpg)](https://www.youtube.com/watch?v=nnMWSYeTCns)
 
 <p>Vídeo demonstrativo, é utilizada a ferramenta do Postman para teste da API. Clique <a href="https://www.youtube.com/watch?v=nnMWSYeTCns">aqui</a>.</p>
