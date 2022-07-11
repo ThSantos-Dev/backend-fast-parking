@@ -2,7 +2,7 @@
 
 <p>Projeto didático para avaliação final das disciplinas de Programação Back-End e Banco de Dados.</p>
 <p>Situação proposta: clique <a href="https://drive.google.com/file/d/1jgq9LnjaaRcYqNkKb-qTChYUCX8PYdmd/view?usp=sharing">aqui</a> para visualizar.</p>
-<p>Documentação da API: <a href="https://documenter.getpostman.com/view/18027456/Uz5NitA7">FastParking - API</a> | Em desenvolvimento.</p>
+<p>Documentação da API: <a href="https://documenter.getpostman.com/view/18027456/Uz5NitA7">FastParking - API</a>.</p>
 
 ## Vídeo demonstrativo:
 
